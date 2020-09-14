@@ -3,17 +3,19 @@
 Welcome, here you can find whole source code (C++ and sln files) for portfolio that i made.
 
 ## Table of Contents
->1. [About Me](#project-info)
+>1. [Project Info](#project-info)
 >1. [About Me](#about-me)
 >1. [Software Used](#software-used)
 >1. [Project Description](#project-description)
 >1. [Project Workflow](#project-workflow)
 >1. [Challenges](#challenges)
+
 ## Project Info
 #### Start Date : 14.09.2020
 #### Plugins : Designer, Houdini Engine
 
 ## About Me
+Hello there
 
 ## Software Used
 
@@ -35,6 +37,9 @@ Used and Zbrush for all charcters and details like weapons, player hands etc.
 I used some assets from Megascan colection. All assets from Megascans went to Zbrush for tweaking, Mixer for my own textures and than fine tweaking in ue 4.
 #### DaVinci Resolve
 All cinematics where created and recorded in UE4 and then edited in Resolve. My youtube videos are also edited in resolve.
+
 ## Project Description
+
 ## Project Workflow
+
 ## Challenges
